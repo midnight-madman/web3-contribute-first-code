@@ -14,5 +14,5 @@ description: Main list of all projects in Web3 contribute first code
 
 ### Tools
 
-<table><thead><tr><th>Name</th><th>Homepage</th><th>Link to tickets</th><th data-type="select" data-multiple>Tags</th></tr></thead><tbody><tr><td>web3.py</td><td><a href="https://github.com/ethereum/web3.py">https://github.com/ethereum/web3.py</a></td><td><a href="https://github.com/ethereum/web3.py/issues?q=is%3Aissue+is%3Aopen+label%3A%22Good+First+Issue%22">https://github.com/ethereum/web3.py/issues?q=is%3Aissue+is%3Aopen+label%3A%22Good+First+Issue%22</a></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
+<table><thead><tr><th>Name</th><th>Homepage</th><th>Link to tickets</th><th data-type="select" data-multiple>Tags</th></tr></thead><tbody><tr><td>web3.py</td><td><a href="https://github.com/ethereum/web3.py">https://github.com/ethereum/web3.py</a></td><td><a href="https://github.com/ethereum/web3.py/issues?q=is%3Aissue+is%3Aopen+label%3A%22Good+First+Issue%22">web3.py tickets</a></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
 

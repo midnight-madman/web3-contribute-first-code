@@ -1,4 +1,12 @@
+---
+cover: >-
+  https://images.unsplash.com/photo-1642991640594-81a565e3aa0e?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NDUxMDIzNTI&ixlib=rb-1.2.1&q=85
+coverY: 2912.4607300884954
+---
+
 # 🔮 Intro
+
+![](.gitbook/assets/asd.jpeg)
 
 ### tl;dr: go straight to the content
 

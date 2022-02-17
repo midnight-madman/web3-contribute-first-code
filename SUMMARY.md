@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Intro](README.md)
-* [Tickets](tickets.md)
+* [🔮 Intro](README.md)
+* [🏗 Projects](projects.md)
